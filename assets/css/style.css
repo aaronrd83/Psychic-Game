@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #6102dd;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+}
